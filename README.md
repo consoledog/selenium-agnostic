@@ -14,4 +14,7 @@
 5. Run the tests:
    ```bash
    pytest -v tests/test_login.py
+   pytest -v tests/test_register.py
    ```
+Note: Websites, Webelement locators (Like ID or NAME), and credentials are just placeholders
+you need to put your own data.
